@@ -27,4 +27,11 @@ html,body,.app{
   width: 100vw;
   height: 100vh;
 }
+.dark:root{
+  background-color: #000;
+  
+}
+.light:root{
+  background-color: #fff;
+}
 </style>
